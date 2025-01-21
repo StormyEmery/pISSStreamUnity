@@ -1,0 +1,22 @@
+{
+    "name": "LeTai.pISSStream",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2b03be8ef6e6d634aa3fdbff377f070a",
+        "GUID:478a2357cc57436488a56e564b08d223"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Lightstreamer.DotNetStandard.Client.dll",
+        "Lightstreamer.DotNetStandard.Client.Api.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
