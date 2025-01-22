@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "pISS Stream",
   "description": "Display how full the International Space Station's urine tank is on your toolbar. In real time.",
-  "unity": "6000.0",
+  "unity": "2022.3.20f1",
   "documentationUrl": "https://github.com/LeLocTai/pISSStreamUnity",
   "dependencies": {
     "com.unity.editorcoroutines": "1.0.0"
