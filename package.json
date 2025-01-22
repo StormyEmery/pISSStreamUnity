@@ -6,7 +6,8 @@
   "unity": "2022.3",
   "documentationUrl": "https://github.com/LeLocTai/pISSStreamUnity",
   "dependencies": {
-    "com.unity.editorcoroutines": "1.0.0"
+    "com.unity.editorcoroutines": "1.0.0",
+    "com.lightstreamer.client": "1.0.0"
   },
   "keywords": [
     "iss",
